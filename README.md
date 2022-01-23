@@ -16,25 +16,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ###### **Bloco 2: Git & GitHub**
 - [x] 2-1: O que é e para que serve?
-- [] 2-2: Entendendo os comandos
-- [] 2-3: Internet - Entendendo como ela funciona
+- [ ] 2-2: Entendendo os comandos
+- [ ] 2-3: Internet - Entendendo como ela funciona
 ###### **Bloco 3: Introdução - HTML & CSS**
-- [] 3-1: HTML & CSS - Estruturas de página
-- [] 3-2: HTML & CSS - Primeiros passos em CSS
-- [] 3-3: HTML & CSS - Seletores e posicionamento
-- [] 3-4: HTML Semântico
-- [] 3-5: Projeto - HTML & CSS
+- [ ] 3-1: HTML & CSS - Estruturas de página
+- [ ] 3-2: HTML & CSS - Primeiros passos em CSS
+- [ ] 3-3: HTML & CSS - Seletores e posicionamento
+- [ ] 3-4: HTML Semântico
+- [ ] 3-5: Projeto - HTML & CSS
 ###### **Bloco 4: Introdução - JavaScript**
-- [] 4-1: JavaScript - Primeiros passos
-- [] 4-2: JavaScript - Array e loop For
-- [] 4-3: JavaScript - Objetos e funções
-- [] 4-4: JavaScript - DOM e seletores
-- [] 4-5: JavaScript - Trabalhando com elementos
-- [] 4-6: JavaScript - Eventos
-- [] 4-7: JavaScript - Web Storage
+- [ ] 4-1: JavaScript - Primeiros passos
+- [ ] 4-2: JavaScript - Array e loop For
+- [ ] 4-3: JavaScript - Objetos e funções
+- [ ] 4-4: JavaScript - DOM e seletores
+- [ ] 4-5: JavaScript - Trabalhando com elementos
+- [ ] 4-6: JavaScript - Eventos
+- [ ] 4-7: JavaScript - Web Storage
 ###### **Bloco 5: Introdução - JavaScript - Projetos**
-- [] 5-1: [Projeto - Meme Generator]()
-- [] 5-2: [Projeto - Arte com Pixels]()
-- [] 5-3: [Projeto - Lista de tarefas]()
-- [] 5-4: [Projeto - Adivinhe a Cor]()
-- [] 5-5: [Projeto - Carta Misteriosa]()
+- [ ] 5-1: [Projeto - Meme Generator]()
+- [ ] 5-2: [Projeto - Arte com Pixels]()
+- [ ] 5-3: [Projeto - Lista de tarefas]()
+- [ ] 5-4: [Projeto - Adivinhe a Cor]()
+- [ ] 5-5: [Projeto - Carta Misteriosa]()
