@@ -1,0 +1,53 @@
+1- Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, 
+    crie um diretório chamado unix_tests e navegue até ele.
+
+    Resposta:  passo 1: mkdir unix_tests passo 2: cd mksir unix_tests
+----------------------------------------------------------------------------------
+2- Crie um arquivo de texto com o nome trybe.txt .
+
+    --- Resposta: touch trybe.txt
+----------------------------------------------------------------------------------
+3- Crie uma cópia do arquivo trybe.txt com nome trybe_backup.txt .
+
+    --- Resposta: cp trybe.txt  trybe_backup.txt 
+----------------------------------------------------------------------------------
+4 - Renomeie o arquivo trybe.txt 
+
+    --- Resposta: mv trybe.txt trybe2.txt
+----------------------------------------------------------------------------------
+5 - Dentro de unix_tests , crie um novo diretório chamado backup .
+
+    --- Resposta: mkdir backup
+----------------------------------------------------------------------------------
+6 - Mova o arquivo trybe_backup.txt para o diretório backup .
+
+    --- Resposta: mv trybe_backup.txt /backup
+----------------------------------------------------------------------------------
+7 - Dentro de unix_tests , crie um novo diretório chamado backup2 .
+
+    --- Resposta: mkdir backup2
+----------------------------------------------------------------------------------
+8 - Mova o arquivo trybe_backup.txt da pasta backup para a pasta backup2 .
+
+    --- Resposta: mv /backup/trybe_backup.txt /backup2
+----------------------------------------------------------------------------------
+9 - Apague a pasta backup .
+
+    --- Resposta rmdir backup
+----------------------------------------------------------------------------------
+10 - Renomeie a pasta backup2 para backup .
+
+    --- Resposta: mv backup2 backup
+----------------------------------------------------------------------------------
+11 - Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
+
+    --- Resposta: passo 1: pwd  passo2: ls
+----------------------------------------------------------------------------------
+12 - Apague o diretório backup .
+
+    --- Resposta: rmdir backup
+----------------------------------------------------------------------------------
+13 - Limpe o terminal. 
+
+    --- Resposta: Clear   ou  control + L
+----------------------------------------------------------------------------------
