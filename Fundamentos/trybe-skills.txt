@@ -1,3 +1,6 @@
+trybe-skills-updates
+Python
+
 Unix
 Bash
 Git
@@ -6,3 +9,4 @@ CSS
 
 Node.js
 React.js
+main
