@@ -17,7 +17,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ##### **Bloco 2: Git & GitHub**
 - [x] 2-1: O que é e para que serve?
 - [x] 2-2: Entendendo os comandos
-- [x ] 2-3: Internet - Entendendo como ela funciona
+- [x] 2-3: Internet - Entendendo como ela funciona
 ##### **Bloco 3: Introdução - HTML & CSS**
 - [x] 3-1: HTML & CSS - Estruturas de página
 - [x] 3-2: HTML & CSS - Primeiros passos em CSS
@@ -65,7 +65,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 10-2: Jest - Testes Assíncronos
 - [ ] 10-3: Jest - Simulando comportamentos
 - [ ] 10-4: Projeto - Jest Assíncrono e Mocking
-## Desenvolvimento Front-end hourglass_flowing_sand
+## Desenvolvimento Front-end :hourglass_flowing_sand
 ##### Bloco 11: Introdução - React
 - [ ] 11-1: 'Hello, world!' no React!
 - [ ] 11-2: Componentes React
@@ -99,10 +99,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 18-1: Context API do React
 - [ ] 18-2: React Hooks - useState e useContext
 - [ ] 18-3: React Hooks - useEffect e Hooks customizados
-- [ ]18-4: Projeto - StarWars Datatable com Context API e Hooks
+- [ ] 18-4: Projeto - StarWars Datatable com Context API e Hooks
 ##### Bloco 19: Projeto Final de Front-end
 - [ ] 19-1: Projeto - App de Receitas
-## Desenvolvimento Back-end hourglass_flowing_sand
+## Desenvolvimento Back-end :hourglass_flowing_sand
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 - [ ] 20-1: Banco de dados SQL
 - [ ] 20-2: Encontrando dados em um banco de dados
@@ -167,7 +167,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 30-3: Projeto - Webchat
 ##### Bloco 34: Projeto
 - [ ] 34-1: Projeto - Trybeer V2
-## Ciência da Computação hourglass_flowing_sand
+## Ciência da Computação :hourglass_flowing_sand
 ##### Bloco 35: Introdução - Ciência da Computação
 - [ ] 35-1: Arquitetura de Computadores
 - [ ] 35-2: Arquitetura de redes
