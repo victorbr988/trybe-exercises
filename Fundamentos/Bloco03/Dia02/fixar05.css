@@ -1,0 +1,17 @@
+.list {
+    text-align: center;
+    
+}
+
+ul{
+    list-style: none;
+}
+li:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+li:active{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
