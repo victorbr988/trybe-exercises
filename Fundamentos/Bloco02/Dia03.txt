@@ -1,0 +1,17 @@
+- Como a internet funciona?
+
+    ---- Resposta: {
+        passo 1: Um cliente busca por google.com
+
+        passo 2: O navegador vai para o servidor de DNS 
+        e encontra o endereço IP de onde o site está hospedado
+
+        passo 3: O navegador manda uma mensagem de requisição HTTP 
+        para o servidor, utilizando a conexão com a internet via TCP/IP
+
+        passo 4: Se o servidor aprovar a requisição do cliente, o servidor 
+        enviará ao cliente uma mensagem "200 OK” 
+
+        Fim: O navegador monta os pequenos pedaços em um site completo com o 
+        Engine de Renderização e retorna a resposta para o usuário em formato HTML.
+    }
