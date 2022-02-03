@@ -8,6 +8,6 @@ const userChoices = {
     peao: "O peão movimenta-se apenas uma casa para frente e somente captura outras peças na diagonal."
 }
 
-const choice = userChoices["torre".toLocaleLowerCase()];
+const choice = userChoices["bispo".toLocaleLowerCase()];
 
 console.log(choice)
