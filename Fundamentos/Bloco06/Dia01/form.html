@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>TrybeTrip</title>
+</head>
+<body>
+  <header>
+    <h1>TrybeTrip</h1>
+  </header>
+  <main>
+    <form action="" method="get">
+      <!-- informação de usuário-->
+      <div class="user-information">
+        <fieldset>
+          <legend>Nome</legend>
+          <input type="text"placeholder="Digite seu nome" required id="user" minlength="10" maxlength="40">
+        </fieldset>
+        
+        <fieldset>
+          <legend>E-mail</legend>
+          <input type="email" placeholder="Digite seu E-mail" required id="email" minlength="10" maxlength="50">
+        </fieldset>
+        
+      </div>
+        
+      <!-- opções de viagens-->
+      <div class="traveled-options">
+        <input type="radio" name="traveled" id="option-1">
+        <label for="option-1">Cidade</label>
+
+        <input type="radio" name="traveled" id="option-2">
+        <label for="option-2">Campo</label>
+
+        <input type="radio"name="traveled"  id="option-3">
+        <label for="option-3">Praia</label>
+
+        <input type="radio" name="traveled" id="option-4">
+        <label for="option-4">Montanhas</label>
+      </div>
+      <!-- Espaço para digitar-->
+      <div class="space-writing">
+        <label for="space-digit">Porque quer ser pessoa desenvolvedora na Trybe?</label>
+        <textarea name="text" maxlength="500" placeholder="Digite sua resposta" id="space-digit" cols="30" rows="10"></textarea>
+      </div>
+
+      <!-- data e aceite de termos-->
+      <div class="date-travel">
+        <label for="dates">Data:</label>
+        <input type="date" name="data" id="dates" placeholder="dd/mm/aaaa">
+      </div>
+
+      <!-- Aceitação dos termos da viagem-->
+      <div class="aceit-terms">
+        
+        <input type="checkbox" name="authorize" id="authorize">
+        <label for="authorize">Quero receber notificações</label>
+
+        <input type="checkbox" name="authorizes" id="authorizes">
+        <label for="authorizes">Autorizo direito de imagem </label>
+      </div>
+
+      <!-- Enviar e apagar dados-->
+      <div class="add-remove">
+        <button type="submit">Enviar</button>
+        <button type="reset">Apagar</button>
+      </div>
+    </form>
+  </main>
+</body>
+</html>
