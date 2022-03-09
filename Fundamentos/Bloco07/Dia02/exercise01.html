@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang='pt-BR'>
+<head>
+  <meta charset='UTF-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+  <title>Calculadora</title>
+</head>
+<body>
+  <p>Informe dois números para realizar a soma:</p>
+  <label for='value1'>Valor 1:</label>
+  <input type='text' id='value1'>
+  <label for='value2'>Valor 2:</label>
+  <input type='text' id='value2'>
+  <button id='button'>Somar</button>
+  <p id='result'></p>
+  <script>
+    // função para verificar se os campos estão preenchidos 
+    function validity(number1, number2) {
+      // se algum campo for vazio retorna um erro
+      if (number1 == "" || number2 == "") {
+        throw new Error ('todos os campos devem ser preenchidos')
+      }
+      console.log(typeof number1);
+      // se não for vazio, executa essa outra condição
+      if (typeof number1 !== 'number' || typeof number2 !== 'number') {
+        throw new Error ('os campos precisam ser números ')
+      }
+      return sum();
+    }
+    // cria função que envia o resultado para o parágrafo no html
+    const sum = () =>  {
+      // se o primeiro if da função for false, executa esse código
+      try {
+        const value1 = document.getElementById('value1').value;
+        const value2 = document.getElementById('value2').value;
+        document.querySelector('#result').innerHTML = `A soma é ${validity(parseInt(value1), parseInt(value2))}`;
+      }
+      // se o if for true, pega essa mensagem de erro e mostra para o usuário
+      catch (error) {
+        alert(`Erro: ${error.message}`);
+      }
+      // independente de tudo, limpa o formulário sempre que tiver conteúdo após passar pelas verificações
+      finally {
+        const value1 = document.getElementById('value1').value = '';
+        const value2 = document.getElementById('value2').value = '';
+      }
+    }
+    
+    window.onload = () => {
+      const button = document.getElementById('button');
+      button.addEventListener('click', sum);
+    }
+  </script>
+</body>
+</html>
