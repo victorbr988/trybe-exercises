@@ -35,24 +35,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 4-7: JavaScript - Web Storage
 ##### **Bloco 5: Introdução - JavaScript - Projetos**
 - [ ] 5-1: [Projeto - Meme Generator]()
-- [ ] 5-2: [Projeto - Arte com Pixels]()
-- [ ] 5-3: [Projeto - Lista de tarefas]()
+- [x] 5-2: [Projeto - Arte com Pixels]()
+- [x] 5-3: [Projeto - Lista de tarefas]()
 - [ ] 5-4: [Projeto - Adivinhe a Cor]()
 - [ ] 5-5: [Projeto - Carta Misteriosa]()
 ##### Bloco 6: HTML & CSS avançado
-- [ ] 6-1: HTML & CSS - Forms
-- [ ] 6-2: Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6-3: CSS Flexbox - Part 1
-- [ ] 6-4: CSS Flexbox - Part 2
-- [ ] 6-5: CSS Responsivo - Mobile First
-- [ ] 6-6: Projeto - Página inicial do Facebook
+- [x] 6-1: HTML & CSS - Forms
+- [x] 6-2: Bibliotecas JavaScript e Frameworks CSS
+- [x] 6-3: CSS Flexbox - Part 1
+- [x] 6-4: CSS Flexbox - Part 2
+- [x] 6-5: CSS Responsivo - Mobile First
+- [x] 6-6: Projeto - Página inicial do Facebook
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
-- [ ] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 7-2: JavaScript ES6 - Objects
-- [ ] 7-3: Testes unitÃ¡rios em JavaScript
-- [ ] 7-4: Projeto - JavaScript Testes Unitários
+- [x] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 7-2: JavaScript ES6 - Objects
+- [x] 7-3: Testes unitÃ¡rios em JavaScript
+- [x] 7-4: Projeto - JavaScript Testes Unitários
 ##### Bloco 8: JavaScript ES6
-- [ ] 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [x] 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 8-2: JavaScript ES6 - Higher Order Functions - map e filter
 - [ ] 8-3: JavaScript ES6 - Higher Order Functions - reduce
 - [ ] 8-4: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
