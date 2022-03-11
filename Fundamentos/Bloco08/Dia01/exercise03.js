@@ -1,21 +1,16 @@
-function verifyGabaraito(correct, verify) {
-  const responseCorect = correct;
-  const reesponseVerify = verify;
-  let maxNota = responseCorect.length
+// algoritmo para determinar quantas questões o estudante acertou!
+function validityResponseStudent(correct, student) {
   let nota = 0;
 
-  for (let i = 0; i < responseCorect.length; i += 1) {
-
-    if (reesponseVerify[i] === responseCorect[i]) {
+  correct.forEach((element, index) => {
+    if(element == student[index]) {
       nota += 1
     }
-  }
-  console.log(reesponseVerify);
-  console.log(responseCorect);
-  return nota
+  });
+  console.log(nota) 
 }
 
-function hof(correct, verify, callback) {
-  return callback(correct, verify)
+function receivedValues(correct, student, callback) {
+  return callback(correct, student)
 }
-console.log(hof(['E', 'A', 'E', 'E'], ['G', 'A', 'G', 'E'], verifyGabaraito))
+receivedValues(['E', 'A', 'E', 'E'], ['F', 'F', 'G', 'E'], validityResponseStudent);
