@@ -55,10 +55,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [x] 8-2: JavaScript ES6 - Higher Order Functions - map e filter
 - [x] 8-3: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8-4: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
-- [ ] 8-5: Projeto - Zoo functions
+- [x] 8-4: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
+- [x] 8-5: Projeto - Zoo functions
 ##### Bloco 9: Assincronicidade & Callbacks
-- [ ] 9-1: JavaScript Assíncrono e Callbacks
+- [x] 9-1: JavaScript Assíncrono e Callbacks
 - [ ] 9-2: JavaScript Promises
 - [ ] 9-3: Projeto - Carrinho de Compras
 ##### Bloco 10: Jest
