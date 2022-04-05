@@ -59,16 +59,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 8-5: Projeto - Zoo functions
 ##### Bloco 9: Assincronicidade & Callbacks
 - [x] 9-1: JavaScript Assíncrono e Callbacks
-- [ ] 9-2: JavaScript Promises
-- [ ] 9-3: Projeto - Carrinho de Compras
+- [x] 9-2: JavaScript Promises
+- [x] 9-3: Projeto - Carrinho de Compras
 ##### Bloco 10: Jest
-- [ ] 10-1: Primeiros passos no Jest
-- [ ] 10-2: Jest - Testes Assíncronos
-- [ ] 10-3: Jest - Simulando comportamentos
-- [ ] 10-4: Projeto - Jest Assíncrono e Mocking
+- [x] 10-1: Primeiros passos no Jest
+- [x] 10-2: Jest - Testes Assíncronos
+- [x] 10-3: Jest - Simulando comportamentos
+- [x] 10-4: Projeto - Jest Assíncrono e Mocking
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 ##### Bloco 11: Introdução - React
-- [ ] 11-1: 'Hello, world!' no React!
+- [x] 11-1: 'Hello, world!' no React!
 - [ ] 11-2: Componentes React
 - [ ] 11-3: Projeto - Movie Cards Library
 ##### Bloco 12: React
