@@ -69,22 +69,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 ##### Bloco 11: Introdução - React
 - [x] 11-1: 'Hello, world!' no React!
-- [ ] 11-2: Componentes React
-- [ ] 11-3: Projeto - Movie Cards Library
+- [x] 11-2: Componentes React
+- [x] 11-3: Projeto - Solar System
 ##### Bloco 12: React
-- [ ] 12-1: Components com estado
-- [ ] 12-2: Eventos e formulários no React
-- [ ] 12-3: Projeto - Movie Cards Library Stateful
+- [x] 12-1: Components com estado
+- [x] 12-2: Eventos e formulários no React
+- [x] 12-3: Projeto - Tryunfo
 ##### Bloco 13: React
-- [ ] 13-1: Melhorando o reuso de componentes: props.children e PropTypes
-- [ ] 13-2: Ciclo de vida de componentes em React
-- [ ] 13-3: React Router
-- [ ] 13-4: Projeto - Movie Cards Library CRUD
+- [x] 13-1: Melhorando o reuso de componentes: props.children e PropTypes
+- [x] 13-2: Ciclo de vida de componentes em React
+- [x] 13-3: React Router
+- [x] 13-4: Projeto - Trybetunes
 ##### Bloco 14: Metodologias Ágeis
-- [ ] 14-1: Metodologias Ágeis
-- [ ] 14-2: Projeto - Frontend Online Store
+- [x] 14-1: Metodologias Ágeis
+- [x] 14-2: Projeto - Frontend Online Store
 ##### Bloco 15: Testes em React
-- [ ] 15-1: Testando React com a React Testing Library
+- [x] 15-1: Testando React com a React Testing Library
 - [ ] 15-2: Testando React com a React Testing Library - Parte 2
 - [ ] 15-3: Projeto - Testes em React
 ##### Bloco 16: IntroduÃ§Ã£o ao Redux
